@@ -30,9 +30,9 @@
 ![](./images/MSI_4.png)
 
 ## oc定制工具
-[Hackintool](./Hackintool)
+[Hackintool](./Hackintool.zip)
 
-[OpenCoreConfigurator_v0.7.1](./OpenCoreConfigurator_v0.7.1)
+[OpenCoreConfigurator_v0.7.1](./OpenCoreConfigurator_v0.7.1.zip)
 ## 功能测试
 - ✅ usb定制
 - ✅ 无线网卡
